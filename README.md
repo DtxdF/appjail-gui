@@ -26,6 +26,16 @@ cp -a appjail-gui-plugins/ ~/.appjail-gui/plugins
 
 **Note**: Remember to restart AppJail GUI.
 
+### Projects
+
+```sh
+mkdir -p ~/.appjail-gui/data/projects
+git clone https://github.com/DtxdF/director-projects.git
+cp -a director-projects/ ~/.appjail-gui/data/projects
+```
+
+**Note**: Remember to restart AppJail GUI.
+
 ## Screenshots
 
 <details>
