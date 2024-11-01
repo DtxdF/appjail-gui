@@ -16,6 +16,16 @@ appjail-gui --help
 
 [AppJail](https://appjail.readthedocs.io/en/latest/install) and [Director](https://github.com/DtxdF/director#installation) must be installed before using AppJail GUI.
 
+### Plugins
+
+```sh
+mkdir -p ~/.appjail-gui/plugins
+git clone https://github.com/DtxdF/appjail-gui-plugins.git
+cp -a appjail-gui-plugins/ ~/.appjail-gui/plugins
+```
+
+**Note**: Remember to restart AppJail GUI.
+
 ## Screenshots
 
 <details>
