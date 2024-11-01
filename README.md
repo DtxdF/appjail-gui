@@ -2,6 +2,20 @@
 
 AppJail GUI is the graphical user interface for [AppJail](https://github.com/DtxdF/AppJail) and [Director](https://github.com/DtxdF/director), designed to be minimalistic, clean and with a basic plugin system.
 
+## Installation
+
+**Bleeding-edge version**:
+
+```sh
+pkg install -y py311-pipx
+pipx install https://github.com/DtxdF/appjail-gui
+appjail-gui --help
+```
+
+**Note**: Remember to add `~/.local/bin` to `PATH`.
+
+[AppJail](https://github.com/DtxdF/AppJail#installation) and [Director](https://github.com/DtxdF/director#installation) must be installed before using AppJail GUI.
+
 ## Screenshots
 
 <details>
