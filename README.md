@@ -14,7 +14,7 @@ appjail-gui --help
 
 **Note**: Remember to add `~/.local/bin` to `PATH`.
 
-[AppJail](https://github.com/DtxdF/AppJail#installation) and [Director](https://github.com/DtxdF/director#installation) must be installed before using AppJail GUI.
+[AppJail](https://appjail.readthedocs.io/en/latest/install) and [Director](https://github.com/DtxdF/director#installation) must be installed before using AppJail GUI.
 
 ## Screenshots
 
