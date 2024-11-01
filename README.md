@@ -20,7 +20,6 @@ appjail-gui --help
 
 <details>
     <summary>Main window</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/1.png" width="80%" height="auto" />
     </p>
@@ -28,7 +27,6 @@ appjail-gui --help
 
 <details>
     <summary>Project window</summary>
-    
     <p align="center">
         <img src="assets/img/screenshots/2.png" width="80%" height="auto" />
     </p>
@@ -36,7 +34,6 @@ appjail-gui --help
 
 <details>
     <summary>Advanced settings</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/3.png" width="80%" height="auto" />
     </p>
@@ -44,7 +41,6 @@ appjail-gui --help
 
 <details>
     <summary>Deploying ...</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/4.png" width="80%" height="auto" />
     </p>
@@ -52,7 +48,6 @@ appjail-gui --help
 
 <details>
     <summary>Deployed!</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/5.png" width="80%" height="auto" />
     </p>
@@ -60,7 +55,6 @@ appjail-gui --help
 
 <details>
     <summary>Workspace</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/6.png" width="80%" height="auto" />
     </p>
@@ -68,11 +62,9 @@ appjail-gui --help
 
 <details>
     <summary>Logs</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/7.png" width="80%" height="auto" />
     </p>
-
     <p align="center">
         <img src="assets/img/screenshots/8.png" width="80%" height="auto" />
     </p>
@@ -80,11 +72,9 @@ appjail-gui --help
 
 <details>
     <summary>Jails</summary>
-
     <p align="center">
         <img src="assets/img/screenshots/9.png" width="80%" height="auto" />
     </p>
-
     <p align="center">
         <img src="assets/img/screenshots/10.png" width="80%" height="auto" />
     </p>
