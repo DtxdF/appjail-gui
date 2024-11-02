@@ -26,7 +26,6 @@ setup(
     ],
     package_dir={"" : "src"},
     packages=find_packages(where="src"),
-    package_data={"" : ["src/appjail_gui/files"]},
     include_package_data=True,
     license="BSD 3-Clause",
     license_files="LICENSE",
