@@ -1,6 +1,6 @@
 # AppJail (GUI)
 
-AppJail GUI is the graphical user interface for [AppJail](https://github.com/DtxdF/AppJail) and [Director](https://github.com/DtxdF/director), designed to be minimalistic, clean and with a basic plugin system.
+AppJail GUI is the graphical user interface for [AppJail](https://github.com/DtxdF/AppJail) and [Director](https://github.com/DtxdF/director), designed to be minimalistic, clean and with a basic plugin system. It can be used as a desktop application thanks to pywebview or simply through the web browser like any other NiceGUI application.
 
 ## Installation
 

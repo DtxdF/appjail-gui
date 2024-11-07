@@ -4,8 +4,10 @@ VERSION = "0.0.1"
 
 def get_description():
     return "\
-AppJail GUI is the graphical user interface for AppJail and Director, designed \
-to be minimalistic, clean and with a basic plugin system."
+AppJail GUI is the graphical user interface for AppJail and Director, \
+designed to be minimalistic, clean and with a basic plugin system. \
+It can be used as a desktop application thanks to pywebview or \
+simply through the web browser like any other NiceGUI application."
 
 setup(
     name="appjail-gui",
