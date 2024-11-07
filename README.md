@@ -21,7 +21,7 @@ appjail-gui --help
 ```sh
 mkdir -p ~/.appjail-gui/plugins
 git clone https://github.com/DtxdF/appjail-gui-plugins.git
-cp -a appjail-gui-plugins/ ~/.appjail-gui/plugins
+cp -a appjail-gui-plugins/*.py ~/.appjail-gui/plugins
 ```
 
 **Note**: Remember to restart AppJail GUI.
