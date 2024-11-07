@@ -290,7 +290,7 @@ async def open_dialog(e):
 
         my_notify("Saved!", "positive")
 
-    async def destroy_project(e):
+    async def btn_destroy_project(e):
         shutil.rmtree(appdir)
 
         ui.navigate.reload()
@@ -385,7 +385,7 @@ async def open_dialog(e):
             ui.button("Destroy",
                 icon="delete",
                 color="white",
-                on_click=destroy_project
+                on_click=btn_destroy_project
             )
 
             loading_spinner = ui.spinner("tail",
