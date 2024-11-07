@@ -619,11 +619,14 @@ async def exception_handler(request, exc):
         return client.build_response(request, status_code)
 
 def cli():
-    ui.run(
-        host=HOST_ADDR,
-        port=HOST_PORT,
-        favicon=PAGE_FAVICON,
-        title=PAGE_TITLE,
-        reload=False,
-        native=NATIVE_MODE
-    )
+    try:
+        ui.run(
+            host=HOST_ADDR,
+            port=HOST_PORT,
+            favicon=PAGE_FAVICON,
+            title=PAGE_TITLE,
+            reload=False,
+            native=NATIVE_MODE
+        )
+    except KeyboardInterrupt:
+        pass
